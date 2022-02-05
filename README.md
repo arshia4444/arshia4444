@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Advanced Pentesting and C
 - 📫 How to reach me arshia.reisi@protonmail.com
 
-What you can find here:
-CTFs Walktroght
-Small usefull projects
-Malware
-Security Tools
+#What you can find here:
+- CTF's Walkthrough
+- Small usefull projects
+- Malware
+- Security Tools
 
