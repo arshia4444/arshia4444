@@ -1,27 +1,32 @@
+<br>
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<br>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<a href="https://www.linkedin.com/in/arshia-reisi-b287b7193/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 </div>
 
-<center><img src="https://komarev.com/ghpvc/?username=arshia4444&style=flat-square&color=blue"/>
+<center><img src="https://komarev.com/ghpvc/?username=arshia4444&style=flat-square&color=blue"/></center>
+
+<br>
 
 <center><h1>
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1></center>
 
-
 <div align="center">
-  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="400" height="400"/>
+  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="300" height="300"/>
 </div>
 
 ### About Me :
 I am a IT student at HTL Wien West
 
- 1. 👨🏻‍💻 I'm learning daily topics about Cybersecurity and Pentesting and I'm always ready to challenge my skills.
+ 1. 👨🏻‍💻 I'm always learning new things and I'm always trying to improve my skills.
 
  2. 🔎 You can find here:
 	 - CTF's Walkthrough
@@ -47,7 +52,7 @@ I am a IT student at HTL Wien West
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg"  title="GIT" alt="GIT" width="60" height="60"/>&nbsp;
 </div>
 
+<hr>
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arshia4444&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
