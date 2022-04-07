@@ -9,15 +9,13 @@
 <a href="https://www.linkedin.com/in/arshia-reisi-b287b7193/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-</div>
-
-<center><img src="https://komarev.com/ghpvc/?username=arshia4444&style=flat-square&color=blue"/></center>
-
 <br>
-
-<center><h1>
+<img align="center" src="https://komarev.com/ghpvc/?username=arshia4444&style=flat-square&color=blue"/>
+</div>
+<br>
+<h1  align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1></center>
+</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="300" height="300"/>
