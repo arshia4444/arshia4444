@@ -47,3 +47,5 @@ I am a IT student at HTL Wien West
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arshia4444&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<script src="https://www.hackthebox.eu/badge/615208"></script>
